@@ -20,4 +20,4 @@ The data is a CSV with emoticons removed. Data file format has 6 fields:
 
 # Metrics
 
-~.76 f1-score with minimal svm tuning.
+~.76 f1-score with no Bert tuning minimal svm tuning.
