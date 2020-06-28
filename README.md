@@ -2,6 +2,7 @@
 Sentiment analysis of tweets using pre-trained DistilBert and SVM
 
 - This project is just a quick first look at Bert as a tool.
+- Credit to `https://github.com/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb` for th intro.
 
 # Data
 
